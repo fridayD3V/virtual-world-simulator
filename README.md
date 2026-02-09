@@ -6,7 +6,7 @@ A turn-based 2D simulation of a biological ecosystem. The project implements a d
 ## Tech Stack
 * **Language:** Java
 * **UI/GUI:** Java Swing
-* **Key Concepts:** OOP, Memory Management, File I/O, Event Handling.
+* **Key Concepts:** OOP, File I/O, Event Handling.
 
 ## Key Features
 * **OOP Architecture:** Uses an abstract base class `Organism` with polymorphic derived classes for `Animal` and `Plant` logic.
@@ -22,3 +22,4 @@ A turn-based 2D simulation of a biological ecosystem. The project implements a d
 ```bash
 # Clone the repo
 git clone https://github.com/fridayD3V/virtual-world-simulator.git
+
