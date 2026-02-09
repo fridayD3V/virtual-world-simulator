@@ -1,0 +1,15 @@
+# IDE specific files
+.idea/
+*.iml
+.vscode/
+/out/
+/bin/
+/target/
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+save.txt
